@@ -1,0 +1,7 @@
+sample_ids: ["ID1", "ID2", "ID3"]
+#Files
+ref: "hg38m1x.fa"
+
+#File Paths
+home_dir: "./RBL/nonEBV/HC"
+para_path: "./parabricks"
