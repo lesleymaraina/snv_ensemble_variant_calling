@@ -1,2 +1,4 @@
-# snv_ensemble_variant_calling
-Snakemake workflow: DNA Single Nucleotide Variant Calling 
+# Snakemake workflow: SNV Ensemble Variant Calling 
+
+This Snakemake pipeline implements: Strelka2(v2.9.10), Nvidia Parabricks (v4.1.1) Deep Variant and GATK HaplotypeCaller
+for calling germline single nucleotide variants.
